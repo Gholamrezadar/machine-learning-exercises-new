@@ -1,0 +1,4 @@
+https://www.openimagedenoise.org/
+https://github.com/OpenImageDenoise/oidn
+https://alain.xyz/blog/machine-learning-denoising
+https://www.youtube.com/watch?v=L_skEQNgv7Q&ab_channel=IntelSoftware

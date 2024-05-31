@@ -1,0 +1,6 @@
+تمرین پیاده سازی اول 
+https://colab.research.google.com/drive/1itjlBNliQ17kVK_gCL0o0ea8xor61Q3V?usp=sharing
+تمرین پیاده سازی دوم 
+https://colab.research.google.com/drive/17PHn4Qvq45pYAqFRZ_1PmJQi1tYQy6Lb?usp=sharing
+تمرین پیاده سازی سوم 
+https://colab.research.google.com/drive/1fSVpsDTRh0vFbD5yKkSLdSgTj8IYTqED?usp=sharing
